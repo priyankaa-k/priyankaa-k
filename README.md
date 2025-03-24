@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGiqcAhdig/_-63ZtPtSnAVeqtInp-bkg/edit?utm_content=DAGiqcAhdig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="500px">
+  <img src="https://github.com/user-attachments/assets/7351b36b-8a53-444a-8732-a89261e344f7" width="500px">
 </p>
+
 
 Welcome to my GitHub Account 👋
 
 
-<h1 align="center">👋 Hi, I'm Priyanka Kothapalli! </h1>  
-<h3 align="center"> Data Scientist | ML Engineer | Data Engineer </h3>  
+<h1> 👋 Hi, I'm Priyanka Kothapalli! </h1>  
+<h3> Data Scientist | ML Engineer | Data Engineer </h3>  
 
 🌱 Transitioning into the **Banking domain** as a Data Scientist  
 🔍 Former **Data Engineer at Cognizant (2+ years experience)**  
