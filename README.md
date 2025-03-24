@@ -55,7 +55,7 @@ Welcome to my GitHub Account 👋
 |---|---|---|
 | **🔬 Drug Adherence Prediction** | Predicts patient adherence to medication using ML | [Repo](#) |
 | **📈 Stock Price Forecasting** | Time-series modeling for stock price prediction | [Repo](#) |
-| **🍽️Healthy-Bite** | AI-powered Nutrious recipe generator using NLP & transformers | (https://github.com/priyankaa-k/Healthy-Bite) |
+| **🍽️Healthy-Bite** | AI-powered nutritious recipe generator using NLP & transformers | [Helathy-Bite](https://github.com/priyankaa-k/Healthy-Bite) |
 | **⚙️ ETL Pipeline for Big Data** | Automated ETL workflow using Apache Spark | [Repo](#) |
 | **📊 Metadata Management Automation** | Automates metadata validation using ML | [Repo](#) |
 
