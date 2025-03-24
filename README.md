@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ac0e37a-9fac-41d1-b350-2e0577ebe0ce" width="500px">
+  <img src="https://www.canva.com/design/DAGiqcAhdig/_-63ZtPtSnAVeqtInp-bkg/edit?utm_content=DAGiqcAhdig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="500px">
 </p>
 
 Welcome to my GitHub Account 👋
