@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/0ac0e37a-9fac-41d1-b350-2e0577ebe0ce)
+<p align="center">
+  <img src="[https://your-image-url](https://github.com/user-attachments/assets/0ac0e37a-9fac-41d1-b350-2e0577ebe0ce)" width="1000px">
+</p>
 
 Welcome to my GitHub Account 👋
 
